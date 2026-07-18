@@ -12,7 +12,8 @@ h1{
       border-width: 1px;
       border-color: gray;
       padding: 20px;
-       text-align: center;       
+       text-align: center;  
+       background-color: whitesmoke ;     
 }
 .navbar a{
     padding: 20px;
